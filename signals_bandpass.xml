@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\nicholas\Documents\KiCad\7.0\projects\signals_bandpass\signals_bandpass.kicad_sch</source>
+    <date>5/11/2023 5:49:53 PM</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Signals Lab 5 Bandpass Filter</title>
+        <company/>
+        <rev>1</rev>
+        <date>2023-05-02</date>
+        <source>signals_bandpass.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7015357-e7fd-4583-a90a-bb8d508506b0</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3893cc0c-677f-43ee-98de-df533e90be18</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e20b572e-020b-4e7c-85cf-faa2d398e61e</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed11bafd-7dc4-432f-9439-ec2dbe9e5cf4</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a29b3b5-0aa8-403e-9b85-31570abc12cb</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fab1ff5b-33f8-46af-a9d7-55d9be5fb275</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd611a6b-28f4-4b5e-a10f-9028a4326270</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>590e415d-c461-4b2a-a892-4db600c9aa38</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5853194-59fa-4fc6-8db0-18a4b14c1dc8</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c0d114a-fe34-4468-a0f2-9909b26f91a9</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.5mm_Pad_Via</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89022adc-f44b-41bf-b2be-b930bfcdf0e5</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f2424e0-e2a3-41f9-88c9-05f268c97ab8</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>22k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>251aa3a3-f034-4750-a0e5-7f3723950a77</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>6.8k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3ec64f2-d726-4ab6-9995-edef8e22e738</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>18.2k</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>790bb60a-2f33-4292-a0ab-b74acff38e46</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>25k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>594b5d6a-c375-48b7-93a4-e03fc6bc6966</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>25k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <property name="ki_description" value="Resistor, US symbol"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81fb766d-d84c-41a8-a99f-a0a5b28f70a0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM2902DRG3</value>
+      <footprint>LM2902DRG3:SOIC127P600X175-14N</footprint>
+      <libsource lib="LM2902DRG3" part="LM2902DRG3" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="signals_bandpass.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a2cdc6b-ee76-464e-a6ad-24672692c134</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LM2902DRG3" part="LM2902DRG3">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM2902DRG3</field>
+        <field name="Footprint">SOIC127P600X175-14N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1OUT" type="output"/>
+        <pin num="2" name="1IN-" type="input"/>
+        <pin num="3" name="1IN+" type="input"/>
+        <pin num="4" name="VCC" type="power_in"/>
+        <pin num="5" name="2IN+" type="input"/>
+        <pin num="6" name="2IN-" type="input"/>
+        <pin num="7" name="2OUT" type="output"/>
+        <pin num="8" name="3OUT" type="output"/>
+        <pin num="9" name="3IN-" type="input"/>
+        <pin num="10" name="3IN+" type="input"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="4IN+" type="input"/>
+        <pin num="13" name="4IN-" type="input"/>
+        <pin num="14" name="4OUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="LM2902DRG3">
+      <uri>C:/Users/nicholas/Downloads/LM2902DRG3/LM2902DRG3.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/1IN-">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="1IN-" pintype="input"/>
+    </net>
+    <net code="2" name="/1OUT">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="1OUT" pintype="output"/>
+    </net>
+    <net code="3" name="/2IN-">
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="2IN-" pintype="input"/>
+    </net>
+    <net code="4" name="/2OUT">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="2OUT" pintype="output"/>
+    </net>
+    <net code="5" name="/3IN-">
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="3IN-" pintype="input"/>
+    </net>
+    <net code="6" name="/3OUT">
+      <node ref="H5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="3OUT" pintype="output"/>
+    </net>
+    <net code="7" name="/4IN+">
+      <node ref="U1" pin="12" pinfunction="4IN+" pintype="input"/>
+    </net>
+    <net code="8" name="/4IN-">
+      <node ref="U1" pin="13" pinfunction="4IN-" pintype="input"/>
+    </net>
+    <net code="9" name="/4OUT">
+      <node ref="U1" pin="14" pinfunction="4OUT" pintype="output"/>
+    </net>
+    <net code="10" name="/VCC+">
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="11" name="/VCC-">
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U1" pin="11" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="12" name="/filter_input">
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="GND">
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H6" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U1" pin="10" pinfunction="3IN+" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="1IN+" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="2IN+" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(C31-Pad1)">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
